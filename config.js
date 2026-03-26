@@ -1,0 +1,5 @@
+// Supabase Configuration
+// Replace the values below with your Supabase project credentials
+// Get them from: https://supabase.com -> Your Project -> Settings -> API
+const SUPABASE_URL = 'https://kfodmqcqevujoslottya.supabase.co';
+const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imtmb2RtcWNxZXZ1am9zbG90dHlhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzQ1MDAxMTQsImV4cCI6MjA5MDA3NjExNH0.CQe9Hh1bS4OEMdp4yhtv7MZpVI2q15Goeiqi3pLNELU';
